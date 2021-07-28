@@ -243,6 +243,9 @@ HEADER
 }
 
 /* hamburger open */
+.burger-btn.cross .bar{
+  background-color: #fff;
+}
 .burger-btn.cross .bar-top{
   margin: auto;
   transform: rotate(45deg);
